@@ -24,4 +24,7 @@ public class UserEntity {
 	
 	@Column
 	private String address;
+	
+	@Column
+	private String rollNo;
 }
