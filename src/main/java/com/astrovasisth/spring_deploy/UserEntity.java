@@ -21,4 +21,7 @@ public class UserEntity {
 	
 	@Column
 	private Double age;
+	
+	@Column
+	private String address;
 }
